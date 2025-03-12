@@ -2,7 +2,7 @@
 <h3 align="center">Passionate about coding, problem-solving & building impactful projects.</h3>
 
 [![Twitter: NabilaEusha](https://img.shields.io/twitter/follow/NabilaEusha?style=social)](https://x.com/NabilaEusha)
-[![Linkedin: nabilaeusha](https://img.shields.io/badge/-nursatkakon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nabilaeusha/)](https://www.linkedin.com/in/nabilaeusha/)
+[![Linkedin: nabilaeusha](https://img.shields.io/badge/-nabilaeusha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nabilaeusha/)](https://www.linkedin.com/in/nabilaeusha/)
 [![Codeforces: NabS_](https://img.shields.io/badge/-Codeforces-orange?style=flat-square&logo=Codeforces&logoColor=white&link=https://codeforces.com/profile/NabS_)](https://codeforces.com/profile/NabS_)
 
 

@@ -6,13 +6,13 @@
 [![Codeforces: NabS_](https://img.shields.io/badge/-Codeforces-orange?style=flat-square&logo=Codeforces&logoColor=white&link=https://codeforces.com/profile/NabS_)](https://codeforces.com/profile/NabS_)
 
 
-- 🔭 I’m currently working on [Python](https://www.python.org/)
+🔭 I’m currently working on [Python](https://www.python.org/)
 
-- 🌱 I’m currently learning about **Machine Learning concepts**
+🌱 I’m currently learning about **Machine Learning concepts**
 
-- 💬 Ask me about **Python, Java, C++,C, DSA etc**
+💬 Ask me about **Python, Java, C++,C, DSA etc**
 
-- 📫 How to reach me **eusha.nabila@gmail.com**
+📫 How to reach me **eusha.nabila@gmail.com**
 
 
 

@@ -36,7 +36,7 @@
 <!-- <img src="https://streak-stats.demolab.com?user=NabilaEusha&theme=github-dark&background=000000" alt="GitHub Streak" style="margin-bottom: 30px;" /> -->
 
 <!-- Profile Details -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NabilaEusha&theme=github_dark" alt="Profile Details" />
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NabilaEusha&theme=github_dark" alt="Profile Details" /> -->
 
 
 </div>

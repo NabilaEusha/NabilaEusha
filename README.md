@@ -23,6 +23,26 @@
 </a><br>
 </br>
 
+### My Stats :
+
+<div align="center">
+
+<!-- Top Languages -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NabilaEusha&theme=github_dark" alt="Top Languages" style="margin-bottom: 30px;" />
+
+<br/><br/>
+
+<!-- GitHub Streak -->
+<img src="https://streak-stats.demolab.com?user=NabilaEusha&theme=github-dark&background=000000" alt="GitHub Streak" style="margin-bottom: 30px;" />
+
+<br/><br/>
+
+<!-- Profile Details -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NabilaEusha&theme=github_dark" alt="Profile Details" />
+
+</div>
+
+
 
 <!--
 **NabilaEusha/NabilaEusha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
